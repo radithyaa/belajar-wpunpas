@@ -1,0 +1,13 @@
+-Buat project shorter link
+-Buat project spinner buat pembagian kelompok kelas
+-Buat project converter file, dari jpg img, img pdf dll
+-Tamatin JavaScript, Belajar react, Belajar Tailwind, Npm
+-Tamatin Roadmap FrontEnd Dev
+-Buat aplikasi android sederhana pakai react native
+-Buat game sederhana di android
+-Belajar roadmap backend, python
+-Belajar Framework Ai python, Numpy
+-Menguasai Machine Learning
+-Jadi pembuat AI
+-LULUS SEKOLAH: KERJA DI COMPANY BIG TECH AMERIKA/ BEASISWA UNIVERSITAS PTN/ PTLN, DARI HASIL BANYAK IKUT LOMBA SMA
+-AWS competition, Dicoding, Google I/O, Apple Developer Academy, Hackathon
